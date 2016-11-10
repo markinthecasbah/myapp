@@ -78,7 +78,6 @@
             @endif
 
             <div class="content">
-                <img src='https://www.dijitalweb.ca/wp-content/uploads/dijital-logo-transparent-lg.png' alt='Dijital Web' style='margin-left:auto;margin-right:auto;' />
                 <div class="title m-b-md">
                     Laravel
                 </div>
